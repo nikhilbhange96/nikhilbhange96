@@ -22,7 +22,7 @@
 <markdown-accessiblity-table data-catalyst=""><table align="center">
 	<tbody><tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4c87bbd620cb0bfd5174aa620fb029828fc09d71aa0280966c01eeaaffb63b02/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637070267468656d653d6461726b"><img height="40" src="https://camo.githubusercontent.com/4c87bbd620cb0bfd5174aa620fb029828fc09d71aa0280966c01eeaaffb63b02/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637070267468656d653d6461726b" data-canonical-src="https://skillicons.dev/icons?i=cpp&amp;theme=dark" style="max-width: 100%;"></a></td>
+	<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4c87bbd620cb0bfd5174aa620fb029828fc09d71aa0280966c01eeaaffb63b02/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637070267468656d653d6461726b"><img height="40" src="https://skillicons.dev/icons?i=java" data-canonical-src="[https://skillicons.dev/icons?i=java&amp](https://skillicons.dev/icons?i=java);theme=dark" style="max-width: 100%;"></a></td>
 </tr>
 <tr>
 	<td><strong>Frontend Development</strong></td>
